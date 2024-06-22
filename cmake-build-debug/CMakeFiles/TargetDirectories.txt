@@ -1,0 +1,3 @@
+/Users/sebastiankoziatek/Desktop/Warhammer Character Forge/cmake-build-debug/CMakeFiles/Warhammer_Character_Forge.dir
+/Users/sebastiankoziatek/Desktop/Warhammer Character Forge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sebastiankoziatek/Desktop/Warhammer Character Forge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
